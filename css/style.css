@@ -137,6 +137,7 @@ body {
   line-height: 40px;
 }
 .base-logo {
+	display: block;
 	width: 503px;
 	height: 87px;
 	margin-bottom: 40px;
