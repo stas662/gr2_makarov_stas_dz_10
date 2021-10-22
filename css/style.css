@@ -687,6 +687,9 @@ transition: 1s all ease-in-out;
 	margin-top: 0;
 	height: 0px;
 }
+.hamburger-menu {
+	margin-bottom: 15px;	
+}
 .hamburger-menu input, label {
 	visibility: visible;
 }
