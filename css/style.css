@@ -622,7 +622,7 @@ transition: 1s all ease-in-out;
 	flex-direction: column;
 }
 .footer-logo {
-	margin: 35px auto 15px 0;
+	margin: 35px auto 15px 10px;
 }
 .network-margin {
 	margin: 0 !important;
