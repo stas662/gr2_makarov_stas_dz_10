@@ -431,6 +431,7 @@ textarea:focus, input:focus{
 	margin: 0 auto;
 }
 .footer-logo {
+	display: block;
 	min-width: 145px;
 	min-height: 90px;
 	margin: 65px auto;
@@ -753,6 +754,7 @@ transition: 1s all ease-in-out;
 	background: url('../images/logo-bot-small.png') no-repeat;
 	min-width: 75px;
 	min-height: 47px;
+	margin-left: 10px;
 }
 .footer-contact-item {
 	margin: -10px 10px 60px auto;	
